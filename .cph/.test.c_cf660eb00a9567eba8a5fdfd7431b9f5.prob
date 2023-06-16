@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Users\\alsha\\Desktop\\c\\test.c","tests":[{"id":1675495717161,"input":"a","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\alsha\\Desktop\\c\\test.c","group":"local","local":true}

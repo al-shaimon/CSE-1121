@@ -1,0 +1,1 @@
+{"name":"Local: mock_test","url":"c:\\Users\\alsha\\Desktop\\c\\vjudge\\mock_test.c","tests":[{"id":1680279242905,"input":"10 4\n4.0 2.0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\alsha\\Desktop\\c\\vjudge\\mock_test.c","group":"local","local":true}

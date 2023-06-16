@@ -1,0 +1,1 @@
+{"name":"Local: matrix","url":"c:\\Users\\alsha\\Desktop\\c\\matrix.c","tests":[{"id":1684164814105,"input":"2 2\n1 2\n3 4\n3","output":"will not take number"},{"id":1684164829443,"input":"2 2\n1 2\n3 4\n10","output":"will take number"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\alsha\\Desktop\\c\\matrix.c","group":"local","local":true}

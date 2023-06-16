@@ -1,0 +1,1 @@
+{"name":"Local: mishkat","url":"c:\\Users\\alsha\\Desktop\\c\\mishkat.c","tests":[{"id":1681325896777,"input":"4\n5 8\n4 3\n6 2\n4 4\n5 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\alsha\\Desktop\\c\\mishkat.c","group":"local","local":true}
